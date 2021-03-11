@@ -4,7 +4,7 @@ Laravel ui Vue\
 Vue JS\
 Vue Router\
 Vuetify\
-Material Design Icons\
+Material Design Icons
 
 Usage :
 - Clone this or downlaod zip then extract\
